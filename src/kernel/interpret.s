@@ -14,7 +14,7 @@
 
 colon "parse", parse
   bl tor                    @ i did not write these two words but took
-  bl source                 @ them from tom zillers FPC.  He took them
+  bl source                 @ them from tom zimmers FPC.  He took them
   bl toin                   @ from laxen and perrys F83.
   bl sstring                @ im seriously considering rewriting them
   bl over                   @ because they are very clever with how
