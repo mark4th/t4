@@ -1,0 +1,614 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"scan",
+				"scan-heaps"
+			],
+			[
+				"or",
+				"or"
+			],
+			[
+				"fir",
+				"first-heap"
+			],
+			[
+				"ix",
+				"ix"
+			],
+			[
+				"b",
+				"bsize"
+			],
+			[
+				"mem",
+				"mem-blk2"
+			],
+			[
+				"me",
+				"mem-blk1"
+			],
+			[
+				"heap",
+				"heap"
+			],
+			[
+				"mTim",
+				"mTimerTask"
+			],
+			[
+				"mobTim",
+				"mobTimerInit"
+			],
+			[
+				"thre",
+				"threadsDIE"
+			],
+			[
+				"ret",
+				"retroRPG"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "build/t4k.lst",
+			"settings":
+			{
+				"buffer_size": 574774,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/kernel/Makefile",
+			"settings":
+			{
+				"buffer_size": 976,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 285.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"tas",
+				"Tasks: New document"
+			],
+			[
+				"edit",
+				"Project: Edit"
+			],
+			[
+				"snippet co",
+				"Snippet: colon"
+			],
+			[
+				"snippet",
+				"Snippet: colon"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"xiki",
+				"Create Xiki Buffer"
+			],
+			[
+				"cre",
+				"Create Xiki Buffer"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 125.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/mark4/t4",
+		"/home/mark4/t4/src"
+	],
+	"file_history":
+	[
+		"/home/mark4/t4/src/kernel/compile.s",
+		"/home/mark4/t4/src/examples/dots/wmdots.f",
+		"/home/mark4/t4/src/kernel/loops.s",
+		"/home/mark4/t4/src/ext/tui/tui.f",
+		"/home/mark4/t4/src/kernel/Makefile",
+		"/home/mark4/t4/src/kernel/io.s",
+		"/home/mark4/t4/src/ext/loops.f",
+		"/home/mark4/t4/src/ext/compile.f",
+		"/home/mark4/t4/src/ext/tui/border.f",
+		"/home/mark4/t4/src/kernel/variable.s",
+		"/home/mark4/t4/src/kernel/exec.s",
+		"/home/mark4/forth/t4/src/kernel/io.s",
+		"/home/mark4/forth/t4/src/kernel/header.s",
+		"/home/mark4/forth/t4/src/kernel/fload.s",
+		"/home/mark4/forth/t4/src/kernel/expect.s",
+		"/home/mark4/forth/t4/src/kernel/compile.s",
+		"/home/mark4/forth/t4/src/kernel/macros.s",
+		"/home/mark4/forth/t4/src/kernel/vocabs.s",
+		"/home/mark4/forth/t4/src/kernel/variable.s",
+		"/home/mark4/forth/t4/src/kernel/t4.s",
+		"/home/mark4/forth/t4/src/kernel/syscalls.s",
+		"/home/mark4/forth/t4/src/kernel/stacks.s",
+		"/home/mark4/forth/t4/src/kernel/rehash.s",
+		"/home/mark4/forth/t4/src/kernel/interpret.s",
+		"/home/mark4/forth/t4/src/kernel/reloc.s",
+		"/home/mark4/forth/t4/src/kernel/math.s",
+		"/home/mark4/forth/t4/src/kernel/memory.s",
+		"/home/mark4/forth/t4/src/kernel/loops.s",
+		"/home/mark4/forth/t4/src/kernel/logic.s",
+		"/home/mark4/forth/t4/src/kernel/exec.s",
+		"/home/mark4/forth/t4/build/t4k.lst",
+		"/home/mark4/forth/t4/src/kernel/find.s",
+		"/home/mark4/forth/t4/src/kernel/comma.s",
+		"/home/mark4/forth/t4/src/examples/dots/wmdots.f",
+		"/home/mark4/forth/t4/src/ext/tui/tui.f",
+		"/home/mark4/forth/t4/src/examples/mmtest/init.f",
+		"/home/mark4/forth/t4/src/examples/mmtest/vars.f",
+		"/home/mark4/forth/t4/src/examples/mmtest/run.f",
+		"/home/mark4/forth/t4/src/ext/tui/window.f",
+		"/home/mark4/forth/t4/src/examples/mmtest/display.f",
+		"/home/mark4/forth/t4/src/ext/memman/info.f",
+		"/home/mark4/forth/t4/src/ext/terminal/color.f",
+		"/home/mark4/forth/t4/src/ext/terminal/keys.f",
+		"/home/mark4/forth/t4/src/ext/list.f",
+		"/home/mark4/forth/t4/src/ext/memman/dealloc.f",
+		"/home/mark4/forth/t4/src/ext/utils.f",
+		"/home/mark4/t4/src/examples/mmtest/mmtest.f",
+		"/home/mark4/t4/src/kernel/math.s",
+		"/home/mark4/t4/src/examples/mmtest/run.f",
+		"/home/mark4/t4/src/examples/mmtest/vars.f",
+		"/home/mark4/t4/src/ext/memman/dealloc.f",
+		"/home/mark4/t4/src/ext/header.f",
+		"/home/mark4/t4/src/ext/tail.f",
+		"/home/mark4/forth/t4/src/ext/words.f",
+		"/home/mark4/forth/t4/src/ext/tty.f",
+		"/home/mark4/forth/t4/src/ext/file.f",
+		"/home/mark4/forth/t4/src/ext/vocabs.f",
+		"/home/mark4/t4/src/kernel/vocabs.s",
+		"/home/mark4/t4/src/kernel/a4.s",
+		"/home/mark4/t4/src/kernel/logic.s",
+		"/home/mark4/t4/src/ext/terminal/tformat.f",
+		"/home/mark4/t4/src/ext/terminal/color.f",
+		"/home/mark4/t4/src/t4.f",
+		"/home/mark4/t4/src/ext/terminal/terminfo.f",
+		"/home/mark4/t4/src/ext/dump.f",
+		"/home/mark4/t4/build/t4k.lst",
+		"/home/mark4/t4/src/kernel/stacks.s",
+		"/home/mark4/t4/t4.sublime-project",
+		"/home/mark4/forth/t4/t4.sublime-project",
+		"/home/mark4/libnaf-direct/jni/naf.lst",
+		"/home/mark4/libnaf-direct/jni/naf/comment.s",
+		"/home/mark4/libnaf-direct/jni/naf/scan.s",
+		"/home/mark4/libnaf-direct/jni/naf/rehash.s",
+		"/home/mark4/libnaf-direct/jni/naf/number.s",
+		"/home/mark4/libnaf-direct/jni/naf/math.s",
+		"/home/mark4/libnaf-direct/jni/naf/compile.s",
+		"/home/mark4/libnaf-direct/jni/naf/eval.s",
+		"/home/mark4/libnaf-direct/jni/naf/find.s",
+		"/home/mark4/libnaf-direct/jni/naf/fload.s",
+		"/home/mark4/libnaf-direct/jni/naf/header.s",
+		"/home/mark4/libnaf-direct/jni/naf/interpret.s",
+		"/home/mark4/libnaf-direct/jni/naf/io.s",
+		"/home/mark4/libnaf-direct/jni/naf/loops.s",
+		"/home/mark4/libnaf-direct/jni/naf/exec.s",
+		"/home/mark4/libnaf-direct/jni/naf/macros.s",
+		"/home/mark4/libnaf-direct/jni/naf/log.s",
+		"/home/mark4/libnaf-direct/jni/naf/memory.s",
+		"/home/mark4/libnaf-direct/jni/naf/onload.s",
+		"/home/mark4/libnaf-direct/jni/naf/comma.s",
+		"/home/mark4/libnaf-direct/jni/Application.mk",
+		"/home/mark4/libnaf-direct/jni/naf/vocabs.s",
+		"/home/mark4/libnaf-direct/jni/Android.mk",
+		"/home/mark4/libnaf-direct/jni/naf/a4.S",
+		"/home/mark4/libnaf-direct/jni/naf/stacks.s",
+		"/home/mark4/libnaf-direct/jni/naf/logic.s",
+		"/home/mark4/libnaf-direct/jni/naf/jni.s",
+		"/home/mark4/libnaf-direct/jni/naf/parse.s",
+		"/home/mark4/libnaf-direct/jni/naf/variable.s",
+		"/home/mark4/g/libnaf/jni/naf/comma.s",
+		"/home/mark4/g/libnaf/jni/naf/io.s",
+		"/home/mark4/g/libnaf/jni/naf/eval.s",
+		"/home/mark4/g/libnaf/jni/naf/exec.s",
+		"/home/mark4/g/libnaf/jni/naf/fload.s",
+		"/home/mark4/g/libnaf/jni/naf/interpret.s",
+		"/home/mark4/g/libnaf/jni/naf/jni.s",
+		"/home/mark4/g/libnaf/jni/naf/parse.s",
+		"/home/mark4/g/libnaf/jni/naf/wrapper/jwrapper.c",
+		"/home/mark4/g/libnaf/jni/naf/onload.s",
+		"/home/mark4/g/libnaf/jni/naf.lst",
+		"/home/mark4/g/libnaf/jni/naf/a4.S",
+		"/home/mark4/g/libnaf/jni/naf/macros.s",
+		"/home/mark4/g/libnaf/jni/naf/callgate.s",
+		"/home/mark4/g/libnaf/jni/Android.mk",
+		"/home/mark4/g/libnaf/jni/naf/rehash.s",
+		"/home/mark4/g/libnaf/jni/naf/logic.s",
+		"/home/mark4/g/libnaf/jni/naf/log.s",
+		"/home/mark4/g/libnaf/jni/naf/memory.s",
+		"/home/mark4/g/libnaf/jni/naf/number.s",
+		"/home/mark4/g/libnaf/jni/naf/comment.s",
+		"/home/mark4/g/libnaf/jni/system/log.f",
+		"/home/mark4/g/libnaf/jni/naf/find.s",
+		"/home/mark4/g/libnaf/jni/naf/compile.s",
+		"/home/mark4/g/libnaf/jni/naf/vocabs.s",
+		"/home/mark4/g/libnaf/jni/naf/variable.s",
+		"/home/mark4/g/libnaf/jni/naf/expect.s",
+		"/home/mark4/g/libnaf/jni/naf/stacks.s",
+		"/home/mark4/g/libnaf/jni/naf/wrapper/wrapper.c",
+		"/home/mark4/g/libnaf/jni/naf/scan.s"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 96.0,
+		"where_history":
+		[
+			"<open files>",
+			"/home/mark4/views/LinuxView/Amicus_Tools/tcdb,<open files>",
+			"/home/mark4/views/LinuxView/Amicus_Tools/tcdb",
+			"/home/mark4/view/Amicus_Src/mpu/ui_mgr"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"8002",
+			"0280",
+			"bl ",
+			"bl",
+			"alias",
+			"immediate",
+			"i:",
+			"interpret",
+			"BODY",
+			"frames",
+			"announce",
+			"emit",
+			"info",
+			"-heads",
+			"+heads",
+			"xchr",
+			"rpusjlr",
+			"rpushlr",
+			"params",
+			"setaf",
+			"height",
+			"x_off",
+			"xoff",
+			"equals",
+			"equals:",
+			"fetch",
+			"fetch:",
+			"fetch",
+			"stateto",
+			".int",
+			"q_full",
+			"q_actions",
+			"int",
+			"xt",
+			" xt",
+			"xt",
+			"ht",
+			"xt",
+			"kr",
+			"hr",
+			"old_dp",
+			"reveal",
+			"rpush",
+			"nop",
+			"xt",
+			"1b",
+			"xt",
+			"xt exit",
+			"xt",
+			"head,",
+			"alias",
+			"adr",
+			"stm",
+			"adr",
+			"               ",
+			"strb",
+			"ldrb",
+			"0",
+			"#0",
+			"add",
+			"constant",
+			"stm",
+			"ldm",
+			"adr",
+			"plit",
+			"leave",
+			"here",
+			"q_actions",
+			"q_full",
+			"q_tlock",
+			"plit",
+			"flrefill",
+			"q_numout",
+			"q_full",
+			"q_numout",
+			"numout",
+			"q_tlock",
+			"__stte",
+			"param",
+			"info",
+			"tmp",
+			"logbuff",
+			"dp",
+			"state",
+			"start",
+			"q_dp",
+			"head",
+			"q_head",
+			"get_ss",
+			"q_head",
+			"q_start",
+			"q_numlog",
+			"q_logbuff",
+			"q_ps",
+			"q_tag",
+			"q_thread",
+			"s8h",
+			"q_tmp",
+			"q_param",
+			"q_info",
+			"q_ebuff",
+			"q_numout",
+			"q_mgr",
+			"q_fsize",
+			"q_actions",
+			"q_dp",
+			"_voc",
+			"xt",
+			"q_mgr",
+			"q_fsize",
+			"colon:",
+			"q_a",
+			"nop",
+			"xt",
+			"\n@",
+			"xt",
+			"push r0",
+			".w",
+			"rpop",
+			"rpush",
+			"q_head",
+			"dr",
+			"ht",
+			"exit",
+			"ht",
+			"exit",
+			"xt",
+			"  "
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "build/t4k.lst",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 574774,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								40249,
+								40253
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"word_wrap": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 19555.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/kernel/Makefile",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 976,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								331,
+								331
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Makefile/Makefile.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "t4.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"memin",
+				"src/ext/memman/info.f"
+			],
+			[
+				"mmt",
+				"src/examples/mmtest.f"
+			],
+			[
+				"",
+				"/home/mark4/.config/sublime-text-2/Packages/User/Forth/forth.sublime-build"
+			],
+			[
+				"build",
+				"/home/mark4/.config/sublime-text-2/Packages/User/Forth/forth.sublime-build"
+			],
+			[
+				"terco",
+				"src/terminal/color.f"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"setP",
+				"setProc"
+			]
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 201.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

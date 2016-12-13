@@ -1,0 +1,30 @@
+
+Ty for trying this Forth and if you see any sillyness by me (there will be
+some :) I am always around somewhere on irc.freenode.net using either
+'mark4' or 'I440r' as a nick (I440r is my Ibanez 440 radius Guitar!).  I
+also registered #forth there in 2010/2011 (ish) and there are plenty of
+other Forth people in there if you can wake them up :)
+
+You should note however that this Forth is known to have some issues under
+certain conditions, none of which seem 'overly' difficult to fix but I just
+have not been pressed to do so as they do not do not for the most part
+directly affect me.
+
+Firstly, it does not like running inside either a Gnome terminal or a screen
+session without some help.  In both cases the problem is related to terminfo
+and IMHO the problem is not with my Forth but with their terminals (I might
+eat those words some day).  For example, in a gnome terminal, unlike in
+every other terminal in existence, color #0 is not black but dark gray. 
+Color 9 (they changed it from color 15!) is black /facepalm.
+
+I do not like the idea of having to plug in duct tape code to fix other
+peoples sillyness so fixing these two issues has not been a high priority
+for me.  If enough people ask me to do so I have no problems fixing them if
+I can find an elegant way of doing it.  Im not 100% certain where all the
+issues are but I know its terminfo related because typing 'export
+TERM=xterm' fixes things to where they are usable.
+
+To fix black in a gnome terminal you can also do '9 !> black' followed by a
+'black >bg' followed by 'clear'.  Doing this will make purists cringe
+however because what you will have just done is modify a constant }:)
+

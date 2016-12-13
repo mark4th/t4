@@ -1,0 +1,813 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"scan",
+				"scan-heaps"
+			],
+			[
+				"or",
+				"or"
+			],
+			[
+				"fir",
+				"first-heap"
+			],
+			[
+				"ix",
+				"ix"
+			],
+			[
+				"b",
+				"bsize"
+			],
+			[
+				"mem",
+				"mem-blk2"
+			],
+			[
+				"me",
+				"mem-blk1"
+			],
+			[
+				"heap",
+				"heap"
+			],
+			[
+				"mTim",
+				"mTimerTask"
+			],
+			[
+				"mobTim",
+				"mobTimerInit"
+			],
+			[
+				"thre",
+				"threadsDIE"
+			],
+			[
+				"ret",
+				"retroRPG"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "build/t4k.lst",
+			"settings":
+			{
+				"buffer_size": 558089,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/kernel/loops.s",
+			"settings":
+			{
+				"buffer_size": 6876,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/examples/dots/wmdots.f",
+			"settings":
+			{
+				"buffer_size": 12094,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/kernel/macros.s",
+			"settings":
+			{
+				"buffer_size": 6358,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/kernel/logic.s",
+			"settings":
+			{
+				"buffer_size": 4224,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/kernel/math.s",
+			"settings":
+			{
+				"buffer_size": 6001,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/kernel/Makefile",
+			"settings":
+			{
+				"buffer_size": 805,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 285.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"tas",
+				"Tasks: New document"
+			],
+			[
+				"edit",
+				"Project: Edit"
+			],
+			[
+				"snippet co",
+				"Snippet: colon"
+			],
+			[
+				"snippet",
+				"Snippet: colon"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"xiki",
+				"Create Xiki Buffer"
+			],
+			[
+				"cre",
+				"Create Xiki Buffer"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 125.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/mark4/forth/t4",
+		"/home/mark4/forth/t4/build",
+		"/home/mark4/forth/t4/src",
+		"/home/mark4/forth/t4/src/examples",
+		"/home/mark4/forth/t4/src/examples/dots",
+		"/home/mark4/forth/t4/src/examples/mmtest",
+		"/home/mark4/forth/t4/src/kernel"
+	],
+	"file_history":
+	[
+		"/home/mark4/forth/t4/src/kernel/math.s",
+		"/home/mark4/forth/t4/src/kernel/logic.s",
+		"/home/mark4/forth/t4/src/ext/variable.f",
+		"/home/mark4/forth/t4/src/ext/memman/memory.f",
+		"/home/mark4/forth/t4/src/kernel/compile.s",
+		"/home/mark4/forth/t4/src/kernel/interpret.s",
+		"/home/mark4/forth/t4/src/ext/vocabs.f",
+		"/home/mark4/forth/t4/src/ext/memman/heap.f",
+		"/home/mark4/forth/t4/src/ext/memman/alloc.f",
+		"/home/mark4/forth/t4/src/kernel/macros.s",
+		"/home/mark4/forth/t4/src/ext/memman/util.f",
+		"/home/mark4/forth/t4/src/ext/memman/dealloc.f",
+		"/home/mark4/tag/sensortag-android/src/com/example/ti/ble/sensortag/SensorTagGatt.java",
+		"/home/mark4/forth/t4/src/ext/header.f",
+		"/home/mark4/forth/t4/src/kernel/exec.s",
+		"/home/mark4/forth/t4/src/kernel/memory.s",
+		"/home/mark4/forth/t4/src/ext/terminal/color.f",
+		"/home/mark4/forth/t4/src/t4.f",
+		"/home/mark4/forth/t4/src/ext/memman/info.f",
+		"/home/mark4/forth/t4/src/ext/list.f",
+		"/home/mark4/forth/t4/src/examples/mmtest/vars.f",
+		"/home/mark4/forth/t4/src/examples/mmtest/init.f",
+		"/home/mark4/forth/t4/src/examples/mmtest/display.f",
+		"/home/mark4/forth/t4/src/examples/mmtest/run.f",
+		"/home/mark4/forth/t4/src/kernel/loops.s",
+		"/home/mark4/forth/t4/src/kernel/io.s",
+		"/home/mark4/forth/t4/src/ext/loops.f",
+		"/home/mark4/forth/t4/src/examples/mmtest/mmtest.f",
+		"/home/mark4/forth/t4/src/examples/sigtst.f",
+		"/home/mark4/forth/t4/src/ext/tui/windsp.f",
+		"/home/mark4/forth/t4/src/ext/tui/tui.f",
+		"/home/mark4/forth/t4/src/ext/tui/scrdsp.f",
+		"/home/mark4/forth/t4/src/ext/tui/screen.f",
+		"/home/mark4/forth/t4/src/ext/tui/window.f",
+		"/home/mark4/forth/t4/src/examples/wintst.f",
+		"/home/mark4/forth/t4/src/examples/mmtest.f",
+		"/home/mark4/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/mark4/forth/t4/src/examples/dots/wmdots.f",
+		"/home/mark4/forth/t4/src/ext/terminal/keys.f",
+		"/home/mark4/forth/t4/src/ext/terminal/tformat.f",
+		"/home/mark4/forth/t4/src/kernel/Makefile",
+		"/home/mark4/forth/t4/src/ext/tui/menuctl.f",
+		"/home/mark4/forth/t4/src/ext/tui/menudsp.f",
+		"/home/mark4/forth/t4/src/ext/words.f",
+		"/home/mark4/forth/t4/src/ext/utils.f",
+		"/home/mark4/forth/t4/src/ext/tail.f",
+		"/home/mark4/forth/t4/src/ext/args.f",
+		"/home/mark4/forth/t4/src/ext/tty.f",
+		"/home/mark4/forth/t4/src/kernel/stacks.s",
+		"/home/mark4/forth/t4/src/kernel/rehash.s",
+		"/home/mark4/forth/t4/src/kernel/number.s",
+		"/home/mark4/forth/t4/src/kernel/expect.s",
+		"/home/mark4/forth/t4/src/kernel/find.s",
+		"/home/mark4/forth/t4/src/kernel/fload.s",
+		"/home/mark4/forth/t4/src/kernel/a4.s",
+		"/home/mark4/forth/t4/build/t4k.lst",
+		"/home/mark4/forth/t4/src/ext/stacks.f",
+		"/home/mark4/forth/t4/src/ext/terminal/terminfo.f",
+		"/home/mark4/forth/a4t/src/ext/terminal/term.f",
+		"/home/mark4/forth/a4t/src/ext/memman/dealloc.f",
+		"/home/mark4/forth/a4t/src/ext/terminal/terminfo.f",
+		"/home/mark4/forth/a4t/src/ext/memman/util.f",
+		"/home/mark4/forth/a4t/src/ext/memman/heap.f",
+		"/home/mark4/forth/a4t/src/ext/list.f",
+		"/home/mark4/forth/a4t/src/ext/memman/memory.f",
+		"/home/mark4/forth/a4t/src/ext/memman/info.f",
+		"/home/mark4/forth/a4t/src/ext/memman/alloc.f",
+		"/home/mark4/forth/a4t/src/kernel/memory.s",
+		"/home/mark4/forth/a4t/build/t4k.lst",
+		"/home/mark4/forth/a4t/src/ext/utils.f",
+		"/home/mark4/forth/a4t/src/kernel/loops.s",
+		"/home/mark4/forth/a4t/src/ext/tty.f",
+		"/home/mark4/forth/a4t/debianfix",
+		"/home/mark4/forth/a4t/src/kernel/a4.s",
+		"/home/mark4/forth/a4t/src/kernel/io.s",
+		"/home/mark4/forth/a4t/src/kernel/math.s",
+		"/home/mark4/forth/a4t/src/t4.f",
+		"/home/mark4/forth/a4t/src/ext/fsave.f",
+		"/home/mark4/forth/a4t/src/kernel/reloc.s",
+		"/home/mark4/forth/a4t/src/kernel/rehash.s",
+		"/home/mark4/forth/a4t/src/ext/terminal/tformat.f",
+		"/home/mark4/forth/a4t/src/a4.f",
+		"/home/mark4/forth/a4t/src/ext/terminal/keys.f",
+		"/home/mark4/forth/a4t/src/kernel/logic.s",
+		"/home/mark4/forth/a4t/src/kernel/number.s",
+		"/home/mark4/forth/a4t/src/kernel/header.s",
+		"/home/mark4/forth/a4t/src/kernel/fload.s",
+		"/home/mark4/forth/a4t/src/kernel/expect.s",
+		"/home/mark4/forth/a4t/src/ext/tui/tui.f",
+		"/home/mark4/forth/a4t/src/ext/tui/scrdsp.f",
+		"/home/mark4/forth/a4t/src/ext/tui/menu.f",
+		"/home/mark4/forth/a4t/src/ext/file.f",
+		"/home/mark4/forth/a4t/src/ext/case.f",
+		"/home/mark4/forth/a4t/src/ext/semaphore.f",
+		"/home/mark4/forth/a4t/src/ext/terminal/color.f",
+		"/home/mark4/forth/a4t/src/ext/header.f",
+		"/home/mark4/forth/a4t/src/ext/rnd.f",
+		"/home/mark4/forth/a4t/build/a4k.lst",
+		"/home/mark4/forth/a4t/src/ext/history.f",
+		"/home/mark4/forth/a4t/src/ext/forget.f",
+		"/home/mark4/forth/a4t/src/ext/datetime/localtime.f",
+		"/home/mark4/forth/a4t/src/kernel/syscalls.s",
+		"/home/mark4/forth/a4t/src/ext/struct.f",
+		"/home/mark4/forth/a4t/src/ext/init.f",
+		"/home/mark4/forth/a4t/src/ext/stacks.f",
+		"/home/mark4/forth/a4t/src/kernel/compile.s",
+		"/home/mark4/forth/a4t/src/ext/loops.f",
+		"/home/mark4/forth/a4t/src/ext/vocabs.f",
+		"/home/mark4/forth/a4t/src/ext/env.f",
+		"/home/mark4/forth/a4t/src/ext/variable.f",
+		"/home/mark4/forth/a4t/src/ext/number.f",
+		"/home/mark4/forth/a4t/src/kernel/interpret.s",
+		"/home/mark4/forth/a4t/src/ext/compile.f",
+		"/home/mark4/forth/a4t/src/ext/comment.f",
+		"/home/mark4/forth/a4t/src/kernel/vocabs.s",
+		"/home/mark4/forth/a4t/src/kernel/variable.s",
+		"/home/mark4/forth/a4t/src/kernel/exec.s",
+		"/home/mark4/forth/a4t/src/kernel/find.s",
+		"/home/mark4/forth/a4t/src/kernel/stacks.s",
+		"/home/mark4/forth/a4t/src/kernel/comma.s",
+		"/home/mark4/forth/a4t/src/kernel/Makefile",
+		"/home/mark4/forth/a4t/src/kernel/macros.s",
+		"/home/mark4/forth/a4t/src/ext/dump.f",
+		"/home/mark4/forth/a4t/src/kernel/scan.s",
+		"/home/mark4/forth/a4t/src/kernel/comment.s",
+		"/home/mark4/forth/a4t/a4",
+		"/tmp/hg-editor-MPDsAb.txt",
+		"/tmp/hg-editor-VWLHK2.txt"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 96.0,
+		"where_history":
+		[
+			"<open files>",
+			"/home/mark4/views/LinuxView/Amicus_Tools/tcdb,<open files>",
+			"/home/mark4/views/LinuxView/Amicus_Tools/tcdb",
+			"/home/mark4/view/Amicus_Src/mpu/ui_mgr"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"next",
+			"abs",
+			"...",
+			"        ",
+			"f-",
+			"heap-size",
+			"mem",
+			"magic",
+			"bar",
+			"for",
+			"rep",
+			"at",
+			"attach",
+			"test-screen",
+			"shift",
+			"shifter",
+			"#out",
+			".)",
+			"next",
+			"+ 1",
+			"branch",
+			"\"branch\"",
+			"+!",
+			"erase",
+			"mod",
+			"first-heap",
+			"defers",
+			"kup",
+			"rehash",
+			"two",
+			"one",
+			"zero",
+			"(bs)",
+			"'",
+			"llist",
+			"[]",
+			"xt@",
+			"xtfetch",
+			"pcompile",
+			"xtfetch",
+			"forth",
+			"h-current",
+			"rpush lr",
+			".s",
+			".\"",
+			"hpad",
+			"movw",
+			"bic",
+			"does>",
+			"dovar",
+			"pcompile",
+			"..",
+			"for",
+			"commaxt",
+			"freeking",
+			"blfetch",
+			"4",
+			"zero",
+			"literal",
+			"%incr",
+			"incrto",
+			"n>link",
+			"last_hdr",
+			"memsz",
+			"alias",
+			"literal",
+			"lit",
+			"qcolon",
+			"were",
+			"qcolon",
+			"compile",
+			"bic",
+			"wliteral",
+			"(lit)",
+			"literal",
+			"flrefill",
+			"cliteral",
+			"clitera",
+			"hallot",
+			"exit",
+			"literal",
+			"align",
+			"literal",
+			"liter",
+			"lsr",
+			"ls",
+			"comma",
+			"tobody",
+			"refill",
+			"@map",
+			"alloc_ret",
+			"bl#",
+			"param",
+			"qcolon",
+			"execute",
+			"qexec",
+			"count",
+			"pabortq",
+			"(abort\")",
+			"abort",
+			"here",
+			"imm",
+			"7f",
+			"hhere",
+			"sp",
+			"loops.s",
+			"revsh",
+			"branch",
+			"pexpect",
+			"branch",
+			"it",
+			"init_vars",
+			"balign",
+			"xx",
+			"r0",
+			"r2",
+			"r7",
+			"r8",
+			"_chk",
+			"_",
+			"literal",
+			"-1",
+			"span",
+			"expect",
+			"bics",
+			"memory.s",
+			"add",
+			"find"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 5,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "build/t4k.lst",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 558089,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								170948,
+								170948
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"word_wrap": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 79034.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/kernel/loops.s",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6876,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								448,
+								448
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/R/R.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2268.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/examples/dots/wmdots.f",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 12094,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								8701,
+								8701
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Forth/Forth.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 5508.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/kernel/macros.s",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 6358,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1250,
+								1250
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/R/R.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 582.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "src/kernel/logic.s",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4224,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2021,
+								2021
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/R/R.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "src/kernel/math.s",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6001,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								344,
+								344
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/R/R.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "src/kernel/Makefile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 805,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								276,
+								276
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Makefile/Makefile.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 108.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "a4t.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"memin",
+				"src/ext/memman/info.f"
+			],
+			[
+				"mmt",
+				"src/examples/mmtest.f"
+			],
+			[
+				"",
+				"/home/mark4/.config/sublime-text-2/Packages/User/Forth/forth.sublime-build"
+			],
+			[
+				"build",
+				"/home/mark4/.config/sublime-text-2/Packages/User/Forth/forth.sublime-build"
+			],
+			[
+				"terco",
+				"src/terminal/color.f"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"setP",
+				"setProc"
+			]
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 205.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
